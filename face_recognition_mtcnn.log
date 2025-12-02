@@ -1,0 +1,516 @@
+2025-05-22 08:37:44,401 - FaceRecognition_MTCNN - INFO - recognize_faces - 33 - Logging initialized. Log file: C:\Users\Administrator\Documents\facial_recognition_project\face_recognition_mtcnn.log
+2025-05-22 08:39:46,286 - FaceRecognition_MTCNN - INFO - recognize_faces - 45 - Initializing FaceRecognition (VGG16+MTCNN backend)...
+2025-05-22 08:39:49,584 - FaceRecognition_MTCNN - INFO - recognize_faces - 62 - Successfully loaded VGG16 model.
+2025-05-22 08:39:49,584 - FaceRecognition_MTCNN - INFO - recognize_faces - 72 - Loaded label mappings: {0: 'amelie mauresmo', 1: 'angelina jolie', 2: 'atal bihari vajpayee'}
+2025-05-22 08:39:49,587 - FaceRecognition_MTCNN - INFO - recognize_faces - 83 - Loaded 1 student name-to-ID mappings.
+2025-05-22 08:39:49,589 - FaceRecognition_MTCNN - INFO - recognize_faces - 167 - Started attendance session for class ID 2
+2025-05-22 08:39:51,141 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:39:52,305 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:39:57,547 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'hamid' (normalized 'hamid') - Confidence: 0.3980, ID: None
+2025-05-22 08:39:57,547 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'hamid' not found in name_to_id.
+2025-05-22 08:39:57,587 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'hamid' (normalized 'hamid') - Confidence: 0.6333, ID: None
+2025-05-22 08:39:57,588 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'hamid' not found in name_to_id.
+2025-05-22 08:39:57,588 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('hamid', (482, 475, 196, 244)), ('hamid', (19, 536, 195, 183))]
+2025-05-22 08:39:57,627 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:39:58,538 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:39:58,578 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'hamid' (normalized 'hamid') - Confidence: 0.4230, ID: None
+2025-05-22 08:39:58,578 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'hamid' not found in name_to_id.
+2025-05-22 08:39:58,622 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'hamid' (normalized 'hamid') - Confidence: 0.5046, ID: None
+2025-05-22 08:39:58,623 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'hamid' not found in name_to_id.
+2025-05-22 08:39:58,623 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('hamid', (485, 472, 190, 247)), ('hamid', (19, 536, 196, 183))]
+2025-05-22 08:39:58,633 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:39:59,674 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 3 faces.
+2025-05-22 08:39:59,736 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'igor ivanov' (normalized 'igor ivanov') - Confidence: 0.0970, ID: None
+2025-05-22 08:39:59,736 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'igor ivanov' not found in name_to_id.
+2025-05-22 08:39:59,798 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'george robertson' (normalized 'george robertson') - Confidence: 0.1858, ID: None
+2025-05-22 08:39:59,798 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'george robertson' not found in name_to_id.
+2025-05-22 08:39:59,859 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'jiang zemin' (normalized 'jiang zemin') - Confidence: 0.1584, ID: None
+2025-05-22 08:39:59,860 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'jiang zemin' not found in name_to_id.
+2025-05-22 08:39:59,860 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('igor ivanov', (471, 490, 159, 229)), ('george robertson', (1063, 458, 78, 85)), ('jiang zemin', (4, 541, 205, 178))]
+2025-05-22 08:39:59,888 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:00,663 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:00,731 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'bill clinton' (normalized 'bill clinton') - Confidence: 0.1805, ID: None
+2025-05-22 08:40:00,732 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'bill clinton' not found in name_to_id.
+2025-05-22 08:40:00,801 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.2332, ID: None
+2025-05-22 08:40:00,802 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:00,802 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('bill clinton', (481, 479, 166, 240)), ('ahmed', (4, 545, 203, 174))]
+2025-05-22 08:40:00,837 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:01,773 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:01,869 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'igor ivanov' (normalized 'igor ivanov') - Confidence: 0.2215, ID: None
+2025-05-22 08:40:01,869 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'igor ivanov' not found in name_to_id.
+2025-05-22 08:40:01,966 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.5578, ID: None
+2025-05-22 08:40:01,967 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:01,967 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('igor ivanov', (471, 493, 160, 226)), ('ahmed', (0, 538, 213, 181))]
+2025-05-22 08:40:01,976 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:02,923 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:03,019 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.4088, ID: 5
+2025-05-22 08:40:03,020 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.4088 below threshold.
+2025-05-22 08:40:03,112 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'hamid' (normalized 'hamid') - Confidence: 0.1126, ID: None
+2025-05-22 08:40:03,113 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'hamid' not found in name_to_id.
+2025-05-22 08:40:03,114 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (530, 462, 207, 257)), ('hamid', (7, 536, 203, 183))]
+2025-05-22 08:40:03,149 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:03,950 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:04,036 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'angelina jolie' (normalized 'angelina jolie') - Confidence: 0.2030, ID: None
+2025-05-22 08:40:04,036 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'angelina jolie' not found in name_to_id.
+2025-05-22 08:40:04,123 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'george robertson' (normalized 'george robertson') - Confidence: 0.1572, ID: None
+2025-05-22 08:40:04,124 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'george robertson' not found in name_to_id.
+2025-05-22 08:40:04,124 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('angelina jolie', (569, 305, 205, 287)), ('george robertson', (34, 391, 194, 232))]
+2025-05-22 08:40:04,147 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:05,041 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:05,136 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.5606, ID: 5
+2025-05-22 08:40:05,137 - FaceRecognition_MTCNN - INFO - recognize_faces - 173 - Recording attendance: class_id=2, student_id=5, date=2025-05-22 08:40:05, status=present
+2025-05-22 08:40:05,244 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.4960, ID: None
+2025-05-22 08:40:05,245 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:05,245 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (515, 330, 182, 240)), ('ahmed', (0, 392, 200, 252))]
+2025-05-22 08:40:05,280 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:06,314 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:06,400 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.5683, ID: 5
+2025-05-22 08:40:06,488 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.4576, ID: None
+2025-05-22 08:40:06,488 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:06,489 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (527, 314, 192, 258)), ('ahmed', (0, 400, 196, 247))]
+2025-05-22 08:40:06,499 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:07,443 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:07,521 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.5126, ID: 5
+2025-05-22 08:40:07,600 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.2435, ID: None
+2025-05-22 08:40:07,601 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:07,601 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (533, 212, 188, 251)), ('ahmed', (0, 297, 201, 258))]
+2025-05-22 08:40:07,619 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:08,576 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:08,672 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.2634, ID: 5
+2025-05-22 08:40:08,672 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.2634 below threshold.
+2025-05-22 08:40:08,765 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.4650, ID: None
+2025-05-22 08:40:08,766 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:08,766 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (516, 213, 196, 265)), ('ahmed', (0, 299, 195, 251))]
+2025-05-22 08:40:08,788 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:09,843 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 3 faces.
+2025-05-22 08:40:09,937 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'zainab' (normalized 'zainab') - Confidence: 0.3306, ID: None
+2025-05-22 08:40:09,938 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'zainab' not found in name_to_id.
+2025-05-22 08:40:10,033 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.4710, ID: None
+2025-05-22 08:40:10,033 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:10,125 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'paul bremer' (normalized 'paul bremer') - Confidence: 0.2394, ID: None
+2025-05-22 08:40:10,127 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'paul bremer' not found in name_to_id.
+2025-05-22 08:40:10,127 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('zainab', (540, 226, 197, 270)), ('ahmed', (0, 298, 196, 251)), ('paul bremer', (35, 178, 91, 109))]
+2025-05-22 08:40:10,139 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:11,057 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:11,139 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.2505, ID: 5
+2025-05-22 08:40:11,140 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.2505 below threshold.
+2025-05-22 08:40:11,219 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.6232, ID: None
+2025-05-22 08:40:11,220 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:11,220 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (533, 224, 204, 267)), ('ahmed', (0, 300, 194, 242))]
+2025-05-22 08:40:11,232 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:12,206 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:12,281 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.7123, ID: None
+2025-05-22 08:40:12,281 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:12,360 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.1967, ID: 5
+2025-05-22 08:40:12,361 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.1967 below threshold.
+2025-05-22 08:40:12,361 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ahmed', (0, 303, 193, 240)), ('ismail', (431, 275, 160, 257))]
+2025-05-22 08:40:12,371 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:13,303 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:13,395 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.4091, ID: 5
+2025-05-22 08:40:13,396 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.4091 below threshold.
+2025-05-22 08:40:13,490 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.5421, ID: None
+2025-05-22 08:40:13,491 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:13,491 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (463, 264, 195, 266)), ('ahmed', (0, 308, 192, 244))]
+2025-05-22 08:40:13,501 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:14,393 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:14,484 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.1513, ID: 5
+2025-05-22 08:40:14,485 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.1513 below threshold.
+2025-05-22 08:40:14,581 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.6384, ID: None
+2025-05-22 08:40:14,581 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:14,582 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (411, 266, 187, 268)), ('ahmed', (0, 307, 191, 241))]
+2025-05-22 08:40:14,595 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:15,622 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:15,718 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'winona ryder' (normalized 'winona ryder') - Confidence: 0.1617, ID: None
+2025-05-22 08:40:15,719 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'winona ryder' not found in name_to_id.
+2025-05-22 08:40:15,819 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.5874, ID: None
+2025-05-22 08:40:15,820 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:15,821 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('winona ryder', (592, 264, 164, 231)), ('ahmed', (0, 310, 191, 236))]
+2025-05-22 08:40:15,839 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:16,832 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:16,926 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.4294, ID: 5
+2025-05-22 08:40:16,926 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.4294 below threshold.
+2025-05-22 08:40:17,021 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.6756, ID: None
+2025-05-22 08:40:17,021 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:17,021 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (561, 294, 196, 252)), ('ahmed', (0, 308, 193, 240))]
+2025-05-22 08:40:17,031 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:17,969 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:18,054 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.0975, ID: 5
+2025-05-22 08:40:18,054 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.0975 below threshold.
+2025-05-22 08:40:18,140 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.6201, ID: None
+2025-05-22 08:40:18,140 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:18,141 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (457, 288, 160, 262)), ('ahmed', (0, 310, 193, 238))]
+2025-05-22 08:40:18,176 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:19,115 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:19,212 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'igor ivanov' (normalized 'igor ivanov') - Confidence: 0.1044, ID: None
+2025-05-22 08:40:19,213 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'igor ivanov' not found in name_to_id.
+2025-05-22 08:40:19,306 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.6904, ID: None
+2025-05-22 08:40:19,306 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:19,306 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('igor ivanov', (442, 294, 166, 259)), ('ahmed', (0, 307, 187, 245))]
+2025-05-22 08:40:19,319 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:20,263 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:20,344 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.3431, ID: 5
+2025-05-22 08:40:20,344 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.3431 below threshold.
+2025-05-22 08:40:20,425 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.2762, ID: None
+2025-05-22 08:40:20,425 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:20,425 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (548, 261, 199, 250)), ('ahmed', (0, 299, 183, 239))]
+2025-05-22 08:40:20,436 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:21,363 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:21,441 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'zainab' (normalized 'zainab') - Confidence: 0.3073, ID: None
+2025-05-22 08:40:21,441 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'zainab' not found in name_to_id.
+2025-05-22 08:40:21,520 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.4815, ID: None
+2025-05-22 08:40:21,520 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:21,521 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('zainab', (513, 286, 199, 253)), ('ahmed', (0, 302, 199, 251))]
+2025-05-22 08:40:21,530 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:22,474 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:22,564 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.1927, ID: 5
+2025-05-22 08:40:22,565 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.1927 below threshold.
+2025-05-22 08:40:22,660 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'abobakr' (normalized 'abobakr') - Confidence: 0.2758, ID: None
+2025-05-22 08:40:22,660 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'abobakr' not found in name_to_id.
+2025-05-22 08:40:22,661 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (456, 275, 168, 271)), ('abobakr', (18, 300, 197, 249))]
+2025-05-22 08:40:22,681 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:23,522 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:23,604 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'abobakr' (normalized 'abobakr') - Confidence: 0.3979, ID: None
+2025-05-22 08:40:23,605 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'abobakr' not found in name_to_id.
+2025-05-22 08:40:23,688 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.1755, ID: 5
+2025-05-22 08:40:23,688 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.1755 below threshold.
+2025-05-22 08:40:23,689 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('abobakr', (29, 308, 190, 240)), ('ismail', (505, 271, 207, 257))]
+2025-05-22 08:40:23,701 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:24,642 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:24,721 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.2588, ID: None
+2025-05-22 08:40:24,721 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:24,798 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.2027, ID: 5
+2025-05-22 08:40:24,799 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.2027 below threshold.
+2025-05-22 08:40:24,799 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ahmed', (7, 304, 197, 255)), ('ismail', (500, 267, 208, 279))]
+2025-05-22 08:40:24,809 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:25,757 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:25,847 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.6152, ID: None
+2025-05-22 08:40:25,847 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:25,942 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.2585, ID: 5
+2025-05-22 08:40:25,943 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.2585 below threshold.
+2025-05-22 08:40:25,943 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ahmed', (1, 317, 192, 251)), ('ismail', (539, 248, 198, 292))]
+2025-05-22 08:40:25,952 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:26,893 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:26,983 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.3567, ID: 5
+2025-05-22 08:40:26,983 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.3567 below threshold.
+2025-05-22 08:40:27,076 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.5606, ID: None
+2025-05-22 08:40:27,076 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:27,076 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (553, 236, 182, 266)), ('ahmed', (6, 313, 190, 248))]
+2025-05-22 08:40:27,118 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:28,092 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:28,181 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.2826, ID: 5
+2025-05-22 08:40:28,182 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.2826 below threshold.
+2025-05-22 08:40:28,272 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.6700, ID: None
+2025-05-22 08:40:28,272 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:28,274 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (581, 240, 192, 268)), ('ahmed', (6, 313, 187, 246))]
+2025-05-22 08:40:28,305 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:29,264 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:29,341 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.2251, ID: 5
+2025-05-22 08:40:29,341 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.2251 below threshold.
+2025-05-22 08:40:29,418 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.2348, ID: None
+2025-05-22 08:40:29,419 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:29,419 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (504, 265, 190, 281)), ('ahmed', (2, 315, 187, 243))]
+2025-05-22 08:40:29,430 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:30,376 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:30,449 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.1301, ID: 5
+2025-05-22 08:40:30,451 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.1301 below threshold.
+2025-05-22 08:40:30,524 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.6251, ID: None
+2025-05-22 08:40:30,524 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:30,525 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (475, 281, 169, 266)), ('ahmed', (3, 313, 188, 246))]
+2025-05-22 08:40:30,552 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:31,527 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:31,622 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'abobakr' (normalized 'abobakr') - Confidence: 0.1397, ID: None
+2025-05-22 08:40:31,622 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'abobakr' not found in name_to_id.
+2025-05-22 08:40:31,712 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'igor ivanov' (normalized 'igor ivanov') - Confidence: 0.0894, ID: None
+2025-05-22 08:40:31,712 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'igor ivanov' not found in name_to_id.
+2025-05-22 08:40:31,712 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('abobakr', (0, 313, 191, 255)), ('igor ivanov', (461, 285, 192, 286))]
+2025-05-22 08:40:31,726 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:32,840 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 3 faces.
+2025-05-22 08:40:32,926 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'juan carlos ferrero' (normalized 'juan carlos ferrero') - Confidence: 0.2559, ID: None
+2025-05-22 08:40:32,926 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'juan carlos ferrero' not found in name_to_id.
+2025-05-22 08:40:33,009 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.1540, ID: 5
+2025-05-22 08:40:33,010 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.1540 below threshold.
+2025-05-22 08:40:33,098 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'atal bihari vajpayee' (normalized 'atal bihari vajpayee') - Confidence: 0.3334, ID: None
+2025-05-22 08:40:33,099 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'atal bihari vajpayee' not found in name_to_id.
+2025-05-22 08:40:33,099 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('juan carlos ferrero', (1090, 110, 101, 115)), ('ismail', (474, 267, 185, 291)), ('atal bihari vajpayee', (0, 289, 151, 218))]
+2025-05-22 08:40:33,120 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:34,050 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:34,113 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'jose maria aznar' (normalized 'jose maria aznar') - Confidence: 0.2623, ID: None
+2025-05-22 08:40:34,114 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'jose maria aznar' not found in name_to_id.
+2025-05-22 08:40:34,180 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'jose maria aznar' (normalized 'jose maria aznar') - Confidence: 0.1564, ID: None
+2025-05-22 08:40:34,180 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'jose maria aznar' not found in name_to_id.
+2025-05-22 08:40:34,180 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('jose maria aznar', (502, 270, 171, 269)), ('jose maria aznar', (0, 323, 179, 250))]
+2025-05-22 08:40:34,190 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:35,174 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 3 faces.
+2025-05-22 08:40:35,267 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.2873, ID: 5
+2025-05-22 08:40:35,267 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.2873 below threshold.
+2025-05-22 08:40:35,363 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'george robertson' (normalized 'george robertson') - Confidence: 0.2997, ID: None
+2025-05-22 08:40:35,363 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'george robertson' not found in name_to_id.
+2025-05-22 08:40:35,458 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'atal bihari vajpayee' (normalized 'atal bihari vajpayee') - Confidence: 0.1808, ID: None
+2025-05-22 08:40:35,458 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'atal bihari vajpayee' not found in name_to_id.
+2025-05-22 08:40:35,459 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (520, 254, 180, 269)), ('george robertson', (1097, 0, 148, 174)), ('atal bihari vajpayee', (0, 321, 177, 236))]
+2025-05-22 08:40:35,470 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:36,239 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:40:36,326 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.1404, ID: 5
+2025-05-22 08:40:36,327 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.1404 below threshold.
+2025-05-22 08:40:36,327 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (464, 280, 167, 273))]
+2025-05-22 08:40:36,341 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:37,285 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:37,377 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.3181, ID: 5
+2025-05-22 08:40:37,377 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.3181 below threshold.
+2025-05-22 08:40:37,468 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.1577, ID: None
+2025-05-22 08:40:37,468 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:37,468 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (480, 271, 196, 267)), ('ahmed', (0, 314, 179, 229))]
+2025-05-22 08:40:37,513 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:38,468 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:38,549 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.3700, ID: 5
+2025-05-22 08:40:38,550 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.3700 below threshold.
+2025-05-22 08:40:38,629 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.2310, ID: None
+2025-05-22 08:40:38,629 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:38,629 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (549, 260, 185, 275)), ('ahmed', (0, 297, 177, 244))]
+2025-05-22 08:40:38,638 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:39,614 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:39,693 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.2208, ID: None
+2025-05-22 08:40:39,693 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:39,768 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.1881, ID: None
+2025-05-22 08:40:39,769 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:39,769 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ahmed', (466, 252, 170, 301)), ('ahmed', (0, 290, 177, 245))]
+2025-05-22 08:40:39,788 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:40,708 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:40,802 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.2191, ID: 5
+2025-05-22 08:40:40,803 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.2191 below threshold.
+2025-05-22 08:40:40,898 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.1751, ID: None
+2025-05-22 08:40:40,899 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:40,899 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (480, 277, 168, 266)), ('ahmed', (0, 306, 186, 241))]
+2025-05-22 08:40:40,915 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:41,842 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:41,923 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.1802, ID: 5
+2025-05-22 08:40:41,923 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.1802 below threshold.
+2025-05-22 08:40:42,002 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'jiang zemin' (normalized 'jiang zemin') - Confidence: 0.1222, ID: None
+2025-05-22 08:40:42,002 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'jiang zemin' not found in name_to_id.
+2025-05-22 08:40:42,002 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (476, 300, 174, 240)), ('jiang zemin', (0, 308, 167, 224))]
+2025-05-22 08:40:42,012 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:42,944 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:43,026 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.1707, ID: 5
+2025-05-22 08:40:43,026 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.1707 below threshold.
+2025-05-22 08:40:43,106 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'abobakr' (normalized 'abobakr') - Confidence: 0.1420, ID: None
+2025-05-22 08:40:43,106 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'abobakr' not found in name_to_id.
+2025-05-22 08:40:43,107 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (518, 302, 181, 255)), ('abobakr', (0, 327, 166, 233))]
+2025-05-22 08:40:43,116 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:44,031 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:44,125 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'bill clinton' (normalized 'bill clinton') - Confidence: 0.1645, ID: None
+2025-05-22 08:40:44,125 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'bill clinton' not found in name_to_id.
+2025-05-22 08:40:44,217 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.3042, ID: None
+2025-05-22 08:40:44,217 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:44,217 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('bill clinton', (495, 300, 164, 242)), ('ahmed', (2, 300, 180, 230))]
+2025-05-22 08:40:44,227 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:45,162 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:45,249 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.1774, ID: 5
+2025-05-22 08:40:45,249 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.1774 below threshold.
+2025-05-22 08:40:45,337 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.1220, ID: None
+2025-05-22 08:40:45,338 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:45,338 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (483, 268, 190, 290)), ('ahmed', (5, 293, 190, 240))]
+2025-05-22 08:40:45,356 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:46,323 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:46,414 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.1258, ID: None
+2025-05-22 08:40:46,415 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:46,507 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.1861, ID: 5
+2025-05-22 08:40:46,508 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.1861 below threshold.
+2025-05-22 08:40:46,508 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ahmed', (0, 284, 158, 219)), ('ismail', (510, 282, 201, 260))]
+2025-05-22 08:40:46,541 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:47,364 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:47,451 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.2263, ID: 5
+2025-05-22 08:40:47,452 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.2263 below threshold.
+2025-05-22 08:40:47,538 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'jose maria aznar' (normalized 'jose maria aznar') - Confidence: 0.1201, ID: None
+2025-05-22 08:40:47,538 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'jose maria aznar' not found in name_to_id.
+2025-05-22 08:40:47,538 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (511, 266, 176, 250)), ('jose maria aznar', (0, 294, 167, 245))]
+2025-05-22 08:40:47,548 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:48,327 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:40:48,422 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'igor ivanov' (normalized 'igor ivanov') - Confidence: 0.2272, ID: None
+2025-05-22 08:40:48,422 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'igor ivanov' not found in name_to_id.
+2025-05-22 08:40:48,422 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('igor ivanov', (472, 282, 182, 262))]
+2025-05-22 08:40:48,464 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:49,299 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:40:49,389 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.2117, ID: 5
+2025-05-22 08:40:49,389 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.2117 below threshold.
+2025-05-22 08:40:49,390 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (492, 268, 195, 280))]
+2025-05-22 08:40:49,399 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:50,313 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:50,404 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.1700, ID: 5
+2025-05-22 08:40:50,404 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.1700 below threshold.
+2025-05-22 08:40:50,499 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.1242, ID: None
+2025-05-22 08:40:50,499 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:50,499 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (474, 274, 182, 278)), ('ahmed', (0, 299, 175, 243))]
+2025-05-22 08:40:50,523 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:51,461 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:51,543 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.3704, ID: 5
+2025-05-22 08:40:51,544 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.3704 below threshold.
+2025-05-22 08:40:51,629 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.1536, ID: None
+2025-05-22 08:40:51,629 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:51,629 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (472, 286, 174, 273)), ('ahmed', (0, 298, 176, 246))]
+2025-05-22 08:40:51,678 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:52,612 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:52,688 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'igor ivanov' (normalized 'igor ivanov') - Confidence: 0.1353, ID: None
+2025-05-22 08:40:52,689 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'igor ivanov' not found in name_to_id.
+2025-05-22 08:40:52,766 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'jiang zemin' (normalized 'jiang zemin') - Confidence: 0.0927, ID: None
+2025-05-22 08:40:52,766 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'jiang zemin' not found in name_to_id.
+2025-05-22 08:40:52,766 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('igor ivanov', (463, 287, 163, 261)), ('jiang zemin', (0, 304, 169, 243))]
+2025-05-22 08:40:52,776 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:53,788 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:53,880 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'igor ivanov' (normalized 'igor ivanov') - Confidence: 0.1231, ID: None
+2025-05-22 08:40:53,881 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'igor ivanov' not found in name_to_id.
+2025-05-22 08:40:53,973 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'samih' (normalized 'samih') - Confidence: 0.1053, ID: None
+2025-05-22 08:40:53,974 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'samih' not found in name_to_id.
+2025-05-22 08:40:53,974 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('igor ivanov', (465, 289, 162, 253)), ('samih', (0, 316, 154, 224))]
+2025-05-22 08:40:54,009 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:54,978 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:55,072 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.2068, ID: 5
+2025-05-22 08:40:55,072 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.2068 below threshold.
+2025-05-22 08:40:55,167 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'jose maria aznar' (normalized 'jose maria aznar') - Confidence: 0.1035, ID: None
+2025-05-22 08:40:55,168 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'jose maria aznar' not found in name_to_id.
+2025-05-22 08:40:55,168 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (467, 287, 185, 251)), ('jose maria aznar', (0, 298, 163, 242))]
+2025-05-22 08:40:55,181 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:56,153 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:56,254 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.3044, ID: 5
+2025-05-22 08:40:56,255 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.3044 below threshold.
+2025-05-22 08:40:56,352 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'samih' (normalized 'samih') - Confidence: 0.1367, ID: None
+2025-05-22 08:40:56,352 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'samih' not found in name_to_id.
+2025-05-22 08:40:56,353 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (460, 276, 175, 261)), ('samih', (0, 289, 180, 254))]
+2025-05-22 08:40:56,367 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:57,330 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:40:57,427 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.5855, ID: 5
+2025-05-22 08:40:57,523 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.5762, ID: None
+2025-05-22 08:40:57,524 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:40:57,524 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (502, 267, 189, 250)), ('ahmed', (4, 282, 175, 222))]
+2025-05-22 08:40:57,558 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:58,346 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:40:58,442 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.3052, ID: 5
+2025-05-22 08:40:58,442 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.3052 below threshold.
+2025-05-22 08:40:58,442 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (542, 236, 208, 294))]
+2025-05-22 08:40:58,463 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:40:59,220 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:40:59,319 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'zainab' (normalized 'zainab') - Confidence: 0.3307, ID: None
+2025-05-22 08:40:59,319 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'zainab' not found in name_to_id.
+2025-05-22 08:40:59,320 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('zainab', (539, 263, 217, 279))]
+2025-05-22 08:40:59,335 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:00,137 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:41:00,233 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.2996, ID: 5
+2025-05-22 08:41:00,233 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.2996 below threshold.
+2025-05-22 08:41:00,328 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.1415, ID: 5
+2025-05-22 08:41:00,328 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 153 - Confidence 0.1415 below threshold.
+2025-05-22 08:41:00,328 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (533, 253, 211, 286)), ('ismail', (0, 253, 179, 240))]
+2025-05-22 08:41:00,342 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:01,302 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 2 faces.
+2025-05-22 08:41:01,395 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ismail' (normalized 'ismail') - Confidence: 0.5736, ID: 5
+2025-05-22 08:41:01,488 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.3869, ID: None
+2025-05-22 08:41:01,489 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:41:01,489 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ismail', (483, 256, 207, 265)), ('ahmed', (39, 276, 175, 216))]
+2025-05-22 08:41:01,500 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:02,295 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:02,386 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.1478, ID: None
+2025-05-22 08:41:02,388 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:41:02,388 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ahmed', (16, 281, 183, 219))]
+2025-05-22 08:41:02,399 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:03,010 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:03,090 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'gray davis' (normalized 'gray davis') - Confidence: 0.3863, ID: None
+2025-05-22 08:41:03,091 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'gray davis' not found in name_to_id.
+2025-05-22 08:41:03,091 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('gray davis', (0, 0, 1279, 719))]
+2025-05-22 08:41:03,100 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:03,709 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:03,808 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'gray davis' (normalized 'gray davis') - Confidence: 0.1422, ID: None
+2025-05-22 08:41:03,808 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'gray davis' not found in name_to_id.
+2025-05-22 08:41:03,809 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('gray davis', (0, 0, 1279, 719))]
+2025-05-22 08:41:03,819 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:04,438 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:04,532 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'naomi watts' (normalized 'naomi watts') - Confidence: 0.1264, ID: None
+2025-05-22 08:41:04,532 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'naomi watts' not found in name_to_id.
+2025-05-22 08:41:04,532 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('naomi watts', (0, 0, 1279, 719))]
+2025-05-22 08:41:04,543 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:05,183 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:05,278 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'jennifer aniston' (normalized 'jennifer aniston') - Confidence: 0.4386, ID: None
+2025-05-22 08:41:05,279 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'jennifer aniston' not found in name_to_id.
+2025-05-22 08:41:05,279 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('jennifer aniston', (0, 0, 1279, 719))]
+2025-05-22 08:41:05,289 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:05,923 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:06,018 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'george robertson' (normalized 'george robertson') - Confidence: 0.3039, ID: None
+2025-05-22 08:41:06,018 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'george robertson' not found in name_to_id.
+2025-05-22 08:41:06,018 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('george robertson', (0, 0, 1279, 719))]
+2025-05-22 08:41:06,052 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:06,687 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:06,777 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'george robertson' (normalized 'george robertson') - Confidence: 0.2545, ID: None
+2025-05-22 08:41:06,777 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'george robertson' not found in name_to_id.
+2025-05-22 08:41:06,777 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('george robertson', (0, 0, 1279, 719))]
+2025-05-22 08:41:06,802 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:07,425 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:07,519 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'gray davis' (normalized 'gray davis') - Confidence: 0.1020, ID: None
+2025-05-22 08:41:07,519 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'gray davis' not found in name_to_id.
+2025-05-22 08:41:07,520 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('gray davis', (0, 0, 1279, 719))]
+2025-05-22 08:41:07,568 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:08,171 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:08,266 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'jennifer aniston' (normalized 'jennifer aniston') - Confidence: 0.2481, ID: None
+2025-05-22 08:41:08,266 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'jennifer aniston' not found in name_to_id.
+2025-05-22 08:41:08,266 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('jennifer aniston', (0, 0, 1279, 719))]
+2025-05-22 08:41:08,277 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:08,950 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:09,051 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'jennifer aniston' (normalized 'jennifer aniston') - Confidence: 0.4700, ID: None
+2025-05-22 08:41:09,052 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'jennifer aniston' not found in name_to_id.
+2025-05-22 08:41:09,052 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('jennifer aniston', (0, 0, 1279, 719))]
+2025-05-22 08:41:09,069 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:09,698 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:09,792 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ricardo lagos' (normalized 'ricardo lagos') - Confidence: 0.1082, ID: None
+2025-05-22 08:41:09,792 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ricardo lagos' not found in name_to_id.
+2025-05-22 08:41:09,793 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ricardo lagos', (0, 0, 1279, 719))]
+2025-05-22 08:41:09,813 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:10,441 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:10,541 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'guillermo coria' (normalized 'guillermo coria') - Confidence: 0.1995, ID: None
+2025-05-22 08:41:10,542 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'guillermo coria' not found in name_to_id.
+2025-05-22 08:41:10,542 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('guillermo coria', (0, 0, 1279, 719))]
+2025-05-22 08:41:10,555 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:11,330 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:11,423 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'hamid' (normalized 'hamid') - Confidence: 0.2125, ID: None
+2025-05-22 08:41:11,423 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'hamid' not found in name_to_id.
+2025-05-22 08:41:11,423 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('hamid', (1024, 1, 147, 176))]
+2025-05-22 08:41:11,443 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:12,075 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:12,170 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'recep tayyip erdogan' (normalized 'recep tayyip erdogan') - Confidence: 0.1149, ID: None
+2025-05-22 08:41:12,170 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'recep tayyip erdogan' not found in name_to_id.
+2025-05-22 08:41:12,171 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('recep tayyip erdogan', (0, 0, 1279, 719))]
+2025-05-22 08:41:12,181 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:12,955 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:13,050 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'abobakr' (normalized 'abobakr') - Confidence: 0.1846, ID: None
+2025-05-22 08:41:13,050 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'abobakr' not found in name_to_id.
+2025-05-22 08:41:13,051 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('abobakr', (1065, 0, 186, 201))]
+2025-05-22 08:41:13,060 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:13,877 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:13,971 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'hamid' (normalized 'hamid') - Confidence: 0.2335, ID: None
+2025-05-22 08:41:13,971 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'hamid' not found in name_to_id.
+2025-05-22 08:41:13,971 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('hamid', (986, 0, 173, 191))]
+2025-05-22 08:41:13,990 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:14,622 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:14,717 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'guillermo coria' (normalized 'guillermo coria') - Confidence: 0.1443, ID: None
+2025-05-22 08:41:14,717 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'guillermo coria' not found in name_to_id.
+2025-05-22 08:41:14,717 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('guillermo coria', (0, 0, 1279, 719))]
+2025-05-22 08:41:14,760 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:15,388 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:15,481 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'saddam hussein' (normalized 'saddam hussein') - Confidence: 0.1322, ID: None
+2025-05-22 08:41:15,481 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'saddam hussein' not found in name_to_id.
+2025-05-22 08:41:15,482 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('saddam hussein', (0, 0, 1279, 719))]
+2025-05-22 08:41:15,491 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:16,134 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:16,227 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'jennifer aniston' (normalized 'jennifer aniston') - Confidence: 0.2099, ID: None
+2025-05-22 08:41:16,227 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'jennifer aniston' not found in name_to_id.
+2025-05-22 08:41:16,227 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('jennifer aniston', (0, 0, 1279, 719))]
+2025-05-22 08:41:16,240 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:16,932 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:17,026 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ricardo lagos' (normalized 'ricardo lagos') - Confidence: 0.0922, ID: None
+2025-05-22 08:41:17,026 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ricardo lagos' not found in name_to_id.
+2025-05-22 08:41:17,027 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ricardo lagos', (0, 0, 1279, 719))]
+2025-05-22 08:41:17,067 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:17,709 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:17,807 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'tiger woods' (normalized 'tiger woods') - Confidence: 0.0771, ID: None
+2025-05-22 08:41:17,808 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'tiger woods' not found in name_to_id.
+2025-05-22 08:41:17,809 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('tiger woods', (0, 0, 1279, 719))]
+2025-05-22 08:41:17,822 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 89 - detect_faces: Frame shape: (720, 1280, 3)
+2025-05-22 08:41:18,488 - FaceRecognition_MTCNN - DEBUG - recognize_faces - 107 - detect_faces: Detected 1 faces.
+2025-05-22 08:41:18,584 - FaceRecognition_MTCNN - INFO - recognize_faces - 142 - ATTENDANCE_TRACE: Predicted 'ahmed' (normalized 'ahmed') - Confidence: 0.1048, ID: None
+2025-05-22 08:41:18,584 - FaceRecognition_MTCNN - WARNING - recognize_faces - 151 - Name 'ahmed' not found in name_to_id.
+2025-05-22 08:41:18,584 - FaceRecognition_MTCNN - INFO - recognize_faces - 159 - Recognized results: [('ahmed', (0, 0, 1279, 719))]

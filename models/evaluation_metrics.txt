@@ -1,0 +1,5 @@
+Accuracy: 0.9834
+Macro-averaged Precision: 0.9859
+Macro-averaged Recall: 0.9846
+Macro-averaged F1 Score: 0.9849
+Area Under Precision-Recall Curve (AUC): 0.9965

@@ -1,0 +1,11 @@
+2025-05-12 11:39:10,749 - FacialRecognitionEvaluation - INFO - Model loaded successfully.
+2025-05-12 11:39:10,808 - FacialRecognitionEvaluation - INFO - Found 1932 test images in 36 classes
+2025-05-12 11:39:10,808 - FacialRecognitionEvaluation - INFO - Starting evaluation of facial recognition system...
+2025-05-12 11:39:17,302 - FacialRecognitionEvaluation - INFO - Accuracy: 0.9834
+2025-05-12 11:39:17,302 - FacialRecognitionEvaluation - INFO - Macro-averaged Precision: 0.9859
+2025-05-12 11:39:17,302 - FacialRecognitionEvaluation - INFO - Macro-averaged Recall: 0.9846
+2025-05-12 11:39:17,302 - FacialRecognitionEvaluation - INFO - Macro-averaged F1 Score: 0.9849
+2025-05-12 11:39:18,224 - FacialRecognitionEvaluation - INFO - Confusion matrix saved to models\confusion_matrix.png
+2025-05-12 11:39:18,290 - FacialRecognitionEvaluation - INFO - Precision-Recall curve saved to models\precision_recall_curve.png
+2025-05-12 11:39:18,340 - FacialRecognitionEvaluation - INFO - Metrics summary plot saved to models\metrics_summary.png
+2025-05-12 11:39:18,341 - FacialRecognitionEvaluation - INFO - Metrics saved to models\evaluation_metrics.txt
