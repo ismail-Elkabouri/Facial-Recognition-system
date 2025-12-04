@@ -1,4 +1,0 @@
-2025-05-12 11:04:19,658 - ImageGridGenerator - INFO - Starting image grid generation...
-2025-05-12 11:04:22,413 - ImageGridGenerator - INFO - Saved grid to output/original_grid.png
-2025-05-12 11:04:26,197 - ImageGridGenerator - INFO - Saved grid to output/augmented_grid.png
-2025-05-12 11:04:27,717 - ImageGridGenerator - INFO - Completed image grid generation.
